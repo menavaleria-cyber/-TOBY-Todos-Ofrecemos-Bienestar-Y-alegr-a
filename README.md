@@ -6,6 +6,20 @@ Este proyecto corresponde a el proyecto del curso de **Bases de Datos 2026-10** 
 
 ## Descripción del Dominio
 El sistema resuelve la falta de control estructurado en los procesos de adopción y gestión de recursos dentro de los refugios. Permite supervisar el estado de cada animal, evaluar solicitudes de manera eficiente y mantener un registro riguroso de donaciones y campañas.
+## Estructura del Repositorio
+Para facilitar la navegación, puedes acceder directamente a los componentes del proyecto:
+
+* **Documentación:**
+    * [Documento de Análisis (Entrega 1)](./PRIMERA_ENTREGA.docx(2).pdf) - Descripción del dominio y requisitos.
+    * [Documento de Normalización (Entrega 2)](./DOCUMENTO2_Entrga2.pdf) - Análisis de formas normales (1FN, 2FN, 3FN).
+* **Scripts de Base de Datos:**
+    * [ 01_CREAR_ESTRUCTURA.sql](./01_CREAR_ESTRUCTURA.sql) - Definición de tablas y restricciones (DDL).
+    * [ 02_INSERTAR_DATOS.sql](./02_INSERTAR_DATOS.sql) - Carga de datos de prueba (DML).
+    * [ 03_Consultas.sql](./03_Consultas.sql) - Consultas frecuentes y reportes solicitados.
+    * [ 04_TRIGGERS_PLSQL.sql](./04_TRIGGERS_PLSQL.sql) - Implementación de lógica de negocio avanzada (Triggers y funciones).
+    * [ 05_TRANSACCIONES.sql](./05_TRANSACCIONES.sql) - Control de transacciones y consistencia de datos.
+
+---
 
 ### Actores del Sistema
 * **Administrador del refugio:** Encargado de la gestión general, sucursales y reportes.
@@ -26,20 +40,6 @@ El repositorio incluye soporte para las siguientes operaciones críticas:
 
 ---
 
-## Estructura del Repositorio
-Para facilitar la navegación, puedes acceder directamente a los componentes del proyecto:
-
-* **Documentación:**
-    * [Documento de Análisis (Entrega 1)](./PRIMERA_ENTREGA.docx(2).pdf) - Descripción del dominio y requisitos.
-    * [Documento de Normalización (Entrega 2)](./DOCUMENTO2_Entrga2.pdf) - Análisis de formas normales (1FN, 2FN, 3FN).
-* **Scripts de Base de Datos:**
-    * [ 01_CREAR_ESTRUCTURA.sql](./01_CREAR_ESTRUCTURA.sql) - Definición de tablas y restricciones (DDL).
-    * [ 02_INSERTAR_DATOS.sql](./02_INSERTAR_DATOS.sql) - Carga de datos de prueba (DML).
-    * [ 03_Consultas.sql](./03_Consultas.sql) - Consultas frecuentes y reportes solicitados.
-    * [ 04_TRIGGERS_PLSQL.sql](./04_TRIGGERS_PLSQL.sql) - Implementación de lógica de negocio avanzada (Triggers y funciones).
-    * [ 05_TRANSACCIONES.sql](./05_TRANSACCIONES.sql) - Control de transacciones y consistencia de datos.
-
----
 ## Equipo de Trabajo
 | Nombre | Rol | Responsabilidades |
 | :--- | :--- | :--- |
