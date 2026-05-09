@@ -27,8 +27,17 @@ El repositorio incluye soporte para las siguientes operaciones críticas:
 ---
 
 ## Estructura del Repositorio
-* `/docs`: Documento de análisis (PDF) y diagramas E-R / Relacional.
-* `/scripts`: Scripts SQL de creación (DDL) y carga de datos (DML).
+Para facilitar la navegación, puedes acceder directamente a los componentes del proyecto:
+
+* **Documentación:**
+    * [Documento de Análisis (Entrega 1)](./PRIMERA_ENTREGA.docx.pdf) - Descripción del dominio y requisitos.
+    * [Documento de Normalización (Entrega 2)](./DOCUMENTO2_Entrga2.pdf) - Análisis de formas normales (1FN, 2FN, 3FN).
+* **Scripts de Base de Datos:**
+    * [ 01_CREAR_ESTRUCTURA.sql](./01_CREAR_ESTRUCTURA.sql) - Definición de tablas y restricciones (DDL).
+    * [ 02_INSERTAR_DATOS.sql](./02_INSERTAR_DATOS.sql) - Carga de datos de prueba (DML).
+    * [ 03_Consultas.sql](./03_Consultas.sql) - Consultas frecuentes y reportes solicitados.
+    * [ 04_TRIGGERS_PLSQL.sql](./04_TRIGGERS_PLSQL.sql) - Implementación de lógica de negocio avanzada (Triggers y funciones).
+    * [ 05_TRANSACCIONES.sql](./05_TRANSACCIONES.sql) - Control de transacciones y consistencia de datos.
 
 ---
 ## Equipo de Trabajo
