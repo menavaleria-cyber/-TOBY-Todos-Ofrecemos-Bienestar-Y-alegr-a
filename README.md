@@ -16,16 +16,6 @@ El sistema resuelve la falta de control estructurado en los procesos de adopció
 
 ---
 
-## Equipo de Trabajo
-| Nombre | Rol | Responsabilidades |
-| :--- | :--- | :--- |
-| **Kevin Santiago Rico** | Líder | Modelo relacional y requisitos funcionales |
-| **Valeria Mena** | Integrante | Documento de análisis y modelo Entidad-Relación |
-| **Gabriel Bermúdez** | Integrante | Generación de datos (DML) y validación del modelo |
-| **Esteban Hernández** | Integrante | Construcción de script DDL y restricciones |
-
----
-
 ## Consultas Frecuentes del Sistema
 El repositorio incluye soporte para las siguientes operaciones críticas:
 1. Listado de animales disponibles filtrados por especie y raza.
@@ -41,4 +31,13 @@ El repositorio incluye soporte para las siguientes operaciones críticas:
 * `/scripts`: Scripts SQL de creación (DDL) y carga de datos (DML).
 
 ---
-*Última actualización: Versión 2.0 - 02/05/2026*.
+## Equipo de Trabajo
+| Nombre | Rol | Responsabilidades |
+| :--- | :--- | :--- |
+| **Kevin Santiago Rico** | Líder | Modelo relacional y requisitos funcionales |
+| **Valeria Mena** | Integrante | Documento de análisis y modelo Entidad-Relación |
+| **Gabriel Bermúdez** | Integrante | Generación de datos (DML) y validación del modelo |
+| **Esteban Hernández** | Integrante | Construcción de script DDL y restricciones |
+
+---
+
