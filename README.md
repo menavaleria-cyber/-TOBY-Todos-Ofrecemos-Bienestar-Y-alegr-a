@@ -30,7 +30,7 @@ El repositorio incluye soporte para las siguientes operaciones críticas:
 Para facilitar la navegación, puedes acceder directamente a los componentes del proyecto:
 
 * **Documentación:**
-    * [Documento de Análisis (Entrega 1)](./PRIMERA_ENTREGA.docx.pdf) - Descripción del dominio y requisitos.
+    * [Documento de Análisis (Entrega 1)](./PRIMERA_ENTREGA.docx(2).pdf) - Descripción del dominio y requisitos.
     * [Documento de Normalización (Entrega 2)](./DOCUMENTO2_Entrga2.pdf) - Análisis de formas normales (1FN, 2FN, 3FN).
 * **Scripts de Base de Datos:**
     * [ 01_CREAR_ESTRUCTURA.sql](./01_CREAR_ESTRUCTURA.sql) - Definición de tablas y restricciones (DDL).
