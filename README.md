@@ -4,7 +4,7 @@
 
 Este proyecto corresponde a el proyecto del curso de **Bases de Datos 2026-10** (Opción 8: Plataforma de Adopción de Mascotas).
 
-## 📋 Descripción del Dominio
+## Descripción del Dominio
 El sistema resuelve la falta de control estructurado en los procesos de adopción y gestión de recursos dentro de los refugios. Permite supervisar el estado de cada animal, evaluar solicitudes de manera eficiente y mantener un registro riguroso de donaciones y campañas.
 
 ### Actores del Sistema
@@ -26,7 +26,7 @@ El repositorio incluye soporte para las siguientes operaciones críticas:
 
 ---
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 * `/docs`: Documento de análisis (PDF) y diagramas E-R / Relacional.
 * `/scripts`: Scripts SQL de creación (DDL) y carga de datos (DML).
 
